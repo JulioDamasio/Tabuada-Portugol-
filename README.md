@@ -1,1 +1,1 @@
-# Tabuada-Portugol-
+#algoritmo na pseudolinguagem Portugol Studio
