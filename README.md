@@ -1,1 +1,4 @@
-#algoritmo na pseudolinguagem Portugol Studio
+#  Pseudolinguagem Portugol Studio
+
+ -Tabuada  
+ 
